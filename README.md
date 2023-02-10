@@ -2,4 +2,3 @@
 
 Primera actividad
 
-Edita un archivo
